@@ -1,0 +1,21 @@
+Taxas de mortalidade por câncer de MAMA,  brutas e ajustadas por idade, pelas populações mundial e brasileira de 2010, por 100.000 homens e mulheres, Brasil, entre 1979 e 2021.
+
+FAIXA-ETARIA;OBITOS_HOMES;TAXA_ESPECIFICA_HOMES;OBITOS_MULHERES;TAXA_ESPECIFICA_MULHERES;OBITOS_TODOS;TAXA_ESPECIFICA_TODOS
+00 a 04;0;0,00;10;0,00;10;0,00
+05 a 09;1;0,00;1;0,00;2;0,00
+10 a 14;1;0,00;16;0,00;17;0,00
+15 a 19;1;0,00;77;0,02;78;0,01
+20 a 29;25;0,00;3477;0,54;3502;0,28
+30 a 39;127;0,02;29280;5,37;29409;2,75
+40 a 49;374;0,09;72240;16,89;72616;8,72
+50 a 59;738;0,26;98927;31,50;99670;16,54
+60 a 69;1011;0,55;87560;41,72;88571;22,55
+70 a 79;928;1,00;65262;55,98;66194;31,61
+80 ou mais;705;2,05;49053;91,56;49764;56,54
+Idade ignorada;3;0,18;342;19,74;346;10,08
+
+
+Total;3914;-;406245;-;410179;-
+Taxa Bruta;-;0,11;-;11,04;-;5,66
+Taxa Padrao Mundial;-;0,13;-;11,11;-;6,00
+Taxa Padrao Brasil;-;0,14;-;11,92;-;6,47

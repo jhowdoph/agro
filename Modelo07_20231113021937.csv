@@ -1,0 +1,13 @@
+Número médio de anos potenciais de vida perdidos por câncer de MAMA  por 1.000 mulheres Brasil entre 1979 e 2021 partindo da premissa que o limite superior é  70 anos.
+
+Faixa Etária;APVP;TAPVP;
+01-04;201;0;
+05-09;62,5;0;
+10-14;920;0;
+15-19;4042,5;0,01;
+20-29;156465;0,24;
+30-39;1024800;1,88;
+40-49;1806000;4,22;
+50-59;1483905;4,73;
+60-69;437800;2,09;
+Total;4914196;1,46;
